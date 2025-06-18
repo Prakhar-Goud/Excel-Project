@@ -26,8 +26,3 @@ To analyze and summarize structured datasets using **advanced Excel features** s
 - Highlighting of key performance indicators (KPIs)  
 - Region-wise and segment-wise comparisons  
 - Dynamic filtering for user-driven exploration  
-
----
-
-## 📁 Folder Structure
-
