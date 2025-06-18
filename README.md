@@ -26,3 +26,23 @@ To analyze and summarize structured datasets using **advanced Excel features** s
 - Highlighting of key performance indicators (KPIs)  
 - Region-wise and segment-wise comparisons  
 - Dynamic filtering for user-driven exploration  
+
+
+---
+
+## 🚀 Outcome
+
+- Completed all tasks
+- Created a dashboard that enables **quick decision-making** through clear visuals
+- Demonstrated practical knowledge of **advanced Excel analytics**
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 [prakhargoud988@gmail.com](mailto:prakhargoud988@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prakhar-goud)
+
+---
+
+*Thanks for visiting! Feel free to fork or star this repo if you find it helpful.*
